@@ -1,14 +1,4 @@
 <?php
-/**
- * This php file is designed to manage all operation regarding snow's management
- * Author   : pascal.benzonana@cpnv.ch
- * Project  : 151
- * Created  : 18.02.2019 - 21:40
- *
- * Last update :    19.02.2019 PBA
- *                  update fields in query
- * Source       :   https://bitbucket.org/pba_cpnv/151-2019_pba
- */
 
 require_once 'model/dbConnector.php';
 const SEPARATOR = '\'';
